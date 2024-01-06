@@ -3,7 +3,20 @@ I'm a passionate web developer dedicated to creating impactful and user-friendly
 
 ## Technologies & Tools
 
-JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CSS3 | SCSS | Git | GitHub | NPM | Webpack
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+- React ![React](https://img.shields.io/badge/-React-black?logo=react)
+- Redux ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux)
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
+- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express)
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
+- HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)
+- CSS3 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
+- SCSS ![SCSS](https://img.shields.io/badge/-SCSS-black?logo=sass)
+- Git ![Git](https://img.shields.io/badge/-Git-black?logo=git)
+- GitHub ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+- NPM ![NPM](https://img.shields.io/badge/-NPM-black?logo=npm)
+- Webpack ![Webpack](https://img.shields.io/badge/-Webpack-black?logo=webpack)
 
 
 ## Top Languages Used
