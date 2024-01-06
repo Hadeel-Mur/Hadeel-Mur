@@ -1,9 +1,9 @@
-# 👋 Hi, I’m @Hadeel Murshed!
+# 👋 Hi, I’m Hadeel Murshed!
 I'm a passionate web developer dedicated to creating impactful and user-friendly applications. Currently on a journey of continuous learning to stay at the forefront of web development trends and technologies.
 
 ## Technologies & Tools
 
-JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CSS3 | SCSS | Git | GitHub | NPM 
+### JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CSS3 | SCSS | Git | GitHub | NPM 
 
 ## Top Languages Used
 
