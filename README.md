@@ -3,7 +3,7 @@ I'm a passionate web developer dedicated to creating impactful and user-friendly
 
 ## Technologies & Tools
 
-# JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CSS3 | SCSS | Git | GitHub | NPM 
+| JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CSS3 | SCSS | Git | GitHub | NPM |
 
 ## Top Languages Used
 
