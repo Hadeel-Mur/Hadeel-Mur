@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Hadeel-Mur,
-  
-- I'm a passionate web developer dedicated to creating impactful and user-friendly applications.
-- Currently on a journey of continuous learning to stay at the forefront of web development trends and technologies.
+- 👋 Hi, I’m @Hadeel-Mur, I'm a passionate web developer dedicated to creating impactful and user-friendly applications. Currently on a journey of continuous learning to stay at the forefront of web development trends and technologies.
   
 
 - 👀 I’m interested in ...
+  
 
 - Front-end and Back-end development.
 - Web design and user experience
@@ -13,6 +11,7 @@
 
 
 - 🌱 I’m currently learning ...
+  
 
 - Advanced JavaScript and ES6+
 - React.js for building dynamic user interfaces
@@ -21,6 +20,7 @@
 
 
 - 💞️ I’m looking to collaborate on ...
+  
 
 - Open source projects
 - Innovative web development initiatives
