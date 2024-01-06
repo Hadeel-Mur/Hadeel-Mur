@@ -7,11 +7,11 @@ JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CS
 
 ## Top Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadeel-Mur&layout=compact)](https://github.com/Hadeel-Mur/github-readme-stats)
 
 
 
-- 👀 I’m interested in ...
+## 👀 I’m interested in ...
   
 
 - Front-end and Back-end development.
@@ -20,7 +20,7 @@ JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CS
 - Problem-solving through coding
 
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
   
 
 - Advanced JavaScript and ES6+
@@ -29,7 +29,7 @@ JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CS
 - Database management with MongoDB
 
 
-- 💞️ I’m looking to collaborate on ...
+## 💞️ I’m looking to collaborate on ...
   
 
 - Open source projects
@@ -40,14 +40,9 @@ JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CS
 
 ## Contact
 
-Feel free to reach out for collaboration, questions, or just to connect! [Murshed.hadeel@gmail.com](mailto:Murshed.hadeel@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/hadeel-murshed-45278a1a3/).
+Feel free to reach out for collaboration, questions, or just to connect! [Murshed.hadeel@gmail.com](mailto:Murshed.hadeel@gmail.com) 
+or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/hadeel-murshed-45278a1a3/).
 
-- 📫 How to reach me ...
-
-  Feel free to reach out for collaboration, questions, or just to connect!
-
-- LinkedIn: [Hadeel Murshed]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/hadeel-murshed-45278a1a3/))
-- Email: Murshed.hadeel@gmail.com
 
 <!---
 Hadeel-Mur/Hadeel-Mur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
