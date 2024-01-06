@@ -2,8 +2,10 @@
 I'm a passionate web developer dedicated to creating impactful and user-friendly applications. Currently on a journey of continuous learning to stay at the forefront of web development trends and technologies.
 
 ## Technologies & Tools
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SYoprJ+teGz9QFjyddzj6W5L3/3GO9KXZ2U4F" crossorigin="anonymous">
 
- JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CSS3 | SCSS | Git | GitHub | NPM 
+
+<i class="fab fa-js"></i> JavaScript | <i class="fab fa-react"></i> React | <i class="fab fa-react"></i> Redux | <i class="fab fa-node"></i> Node.js | <i class="fab fa-express"></i> Express.js | <i class="fab fa-mongodb"></i> MongoDB | <i class="fab fa-mysql"></i> MySQL | <i class="fab fa-html5"></i> HTML5 | <i class="fab fa-css3"></i> CSS3 | <i class="fab fa-sass"></i> SCSS | <i class="fab fa-git"></i> Git | <i class="fab fa-github"></i> GitHub | <i class="fab fa-npm"></i> NPM | <i class="fab fa-webpack"></i> Webpack
 
 ## Top Languages Used
 
