@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @Hadeel-Mur, I'm a passionate web developer dedicated to creating impactful and user-friendly applications. Currently on a journey of continuous learning to stay at the forefront of web development trends and technologies.
-  
+# 👋 Hi, I’m @Hadeel Murshed!
+I'm a passionate web developer dedicated to creating impactful and user-friendly applications. Currently on a journey of continuous learning to stay at the forefront of web development trends and technologies.
+
+## Technologies & Tools
+
+JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CSS3 | SCSS | Git | GitHub | NPM 
+
+## Top Languages Used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username/github-readme-stats)
+
+
 
 - 👀 I’m interested in ...
   
@@ -28,6 +38,9 @@
 - Anything challenging and exciting!
 
 
+## Contact
+
+Feel free to reach out for collaboration, questions, or just to connect! [Murshed.hadeel@gmail.com](mailto:Murshed.hadeel@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/hadeel-murshed-45278a1a3/).
 
 - 📫 How to reach me ...
 
