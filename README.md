@@ -16,17 +16,17 @@ JavaScript | React | Redux | Node.js | Express.js | MongoDB | MySQL | HTML5 | CS
   
 
 - Front-end and Back-end development.
-- Web design and user experience
-- Open source contributions
-- Problem-solving through coding
+- Web design and user experience.
+- Open source contributions.
+- Problem-solving through coding.
 
 
 ## 🌱 I’m currently learning...
 
-- Advanced JavaScript and ES6+
-- Building dynamic user interfaces with <i class="fab fa-react"></i> React.js and TypeScript
-- Front-end development best practices
-- Responsive web design using HTML5 and CSS3
+- Advanced JavaScript and ES6+.
+- Building dynamic user interfaces with <i class="fab fa-react"></i> React.js and TypeScript.
+- Front-end development best practices.
+- Responsive web design using HTML5 and CSS3.
 
 
 
