@@ -3,7 +3,7 @@ I'm a passionate web developer dedicated to creating impactful and user-friendly
 
 ## Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) | ![React](https://img.shields.io/badge/-React-black?logo=react) |![Redux](https://img.shields.io/badge/-Redux-black?logo=redux) | ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js) | ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express) | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb) | ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql) | ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3) | ![SCSS](https://img.shields.io/badge/-SCSS-black?logo=sass) |![Git](https://img.shields.io/badge/-Git-black?logo=git) | ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github) | ![NPM](https://img.shields.io/badge/-NPM-black?logo=npm) | ![Webpack](https://img.shields.io/badge/-Webpack-black?logo=webpack)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)  ![React](https://img.shields.io/badge/-React-black?logo=react) ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux)  ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)  ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express)  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)  ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)  ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)  ![SCSS](https://img.shields.io/badge/-SCSS-black?logo=sass)  ![Git](https://img.shields.io/badge/-Git-black?logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)  ![NPM](https://img.shields.io/badge/-NPM-black?logo=npm)  ![Webpack](https://img.shields.io/badge/-Webpack-black?logo=webpack)
 
 
 ## Top Languages Used
@@ -24,7 +24,7 @@ I'm a passionate web developer dedicated to creating impactful and user-friendly
 ## 🌱 I’m currently learning...
 
 - Advanced JavaScript and ES6+.
-- Building dynamic user interfaces with <i class="fab fa-react"></i> React.js and TypeScript.
+- Building dynamic user interfaces with ![React](https://img.shields.io/badge/-React-black?logo=react) and ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript).
 - Front-end development best practices.
 - Responsive web design using HTML5 and CSS3.
 
