@@ -23,10 +23,10 @@ I'm a passionate web developer dedicated to creating impactful and user-friendly
 
 ## 🌱 I’m currently learning...
 
-- Advanced JavaScript and ES6+.
-- Building dynamic user interfaces with ![React](https://img.shields.io/badge/-React-black?logo=react) and ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript).
+- Advanced ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) & ![ES6+](https://img.shields.io/badge/-ES6+-black?logo=ES6+).
+- Building dynamic user interfaces with ![React](https://img.shields.io/badge/-React-black?logo=react) & ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript).
+- Responsive web design using ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5) & ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3).
 - Front-end development best practices.
-- Responsive web design using HTML5 and CSS3.
 
 
 
